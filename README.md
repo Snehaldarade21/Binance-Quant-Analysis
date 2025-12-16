@@ -1,4 +1,5 @@
-📊 Live Binance Quant Analytics Dashboard
+**📊 Live Binance Quant Analytics Dashboard**
+
 🎯 Objective
 
 Build a real-time quantitative analytics dashboard that ingests live Binance market data, performs statistical analysis, and visualizes results interactively — all using pure Python and Streamlit.
